@@ -5,7 +5,7 @@ export const favoritos = [
     genero: 'Romance',
     año: 2024,
     resena: 'Dos médicos que fueron rivales se reencuentran.',
-    imagen: 'doctor.jpg',
+    imagen: '/tp-kdrama/doctor.jpg',
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const favoritos = [
     genero: 'Drama',
     año: 2009,
     resena: 'Un clásico sobre la familia y el amor.',
-    imagen: 'herencia.jpg',
+    imagen: ' /tp-kdrama/herencia.jpg',
   },
   {
     id: 3,
@@ -21,6 +21,6 @@ export const favoritos = [
     genero: 'Romance',
     año: 2025,
     resena: 'Una historia de amor en la isla de Jeju.',
-    imagen: 'mandarinas.jpg',
+    imagen: ' /tp-kdrama/mandarinas.jpg',
   },
 ]
